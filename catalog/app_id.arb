@@ -93,6 +93,26 @@
     "x-scomm-en-hash": "7d15d348a2f6ea904529825d05dbe66a746991fc2b9bd17df8ce63785f7f38f7"
   },
   "cancel": "Cancel",
+  "chatFormatInlineCode": "Kode",
+  "@chatFormatInlineCode": {
+    "x-scomm-source": "machine",
+    "x-scomm-en-hash": "340f463033e0fd5ddeabb922df4d4f1b5747494d0f5ed9894f13b6e13ca831f5"
+  },
+  "chatFormatNothingToClear": "Tidak ada format untuk dihapus",
+  "@chatFormatNothingToClear": {
+    "x-scomm-source": "machine",
+    "x-scomm-en-hash": "28cd6c7c4d5cb758349339fa5a3c04b9da7d2c71801d47aa35190c7ed8381cdf"
+  },
+  "chatFormatNumberedList": "Daftar bernomor",
+  "@chatFormatNumberedList": {
+    "x-scomm-source": "machine",
+    "x-scomm-en-hash": "cc62f6c7b2a82fd1677dd9f8bd7d22a02bd55c4caeb8602b8afe0e4be7a765b1"
+  },
+  "chatFormatRemoveLink": "Hapus tautan",
+  "@chatFormatRemoveLink": {
+    "x-scomm-source": "machine",
+    "x-scomm-en-hash": "4953f897094826d39ec100db1822442a8777ad416618609c157b618b6ff206fd"
+  },
   "chooseLanguageSubtitle": "You can change this later in Settings.",
   "chooseYourLanguage": "Choose your language",
   "@clearLogsBody": {
@@ -133,6 +153,41 @@
     },
     "x-scomm-source": "machine",
     "x-scomm-en-hash": "ac0b99108a964577acf28de5e77636b0f144d342946217ffe857afea07625522"
+  },
+  "composeFormatBold": "Tebal",
+  "@composeFormatBold": {
+    "x-scomm-source": "machine",
+    "x-scomm-en-hash": "94fee62e68e257c0313bd832f6fbf6079c9055865f2fd34ed1fef130eac595e9"
+  },
+  "composeFormatBulletList": "Daftar berpoin",
+  "@composeFormatBulletList": {
+    "x-scomm-source": "machine",
+    "x-scomm-en-hash": "a2b5baef0f36f6b94d814c78b391b8207a78583e044fbfbbb145fc0887ebe137"
+  },
+  "composeFormatClear": "Hapus format",
+  "@composeFormatClear": {
+    "x-scomm-source": "machine",
+    "x-scomm-en-hash": "9e75ec87d1e30f0eb24d167fb27f8f5cd9e38a7e824b759f9a2b6a52e6039b93"
+  },
+  "composeFormatItalic": "Miring",
+  "@composeFormatItalic": {
+    "x-scomm-source": "machine",
+    "x-scomm-en-hash": "9bf37cb58a69445600badcc2eee6d537f07a8cd8cfba0d60ced0cac7302b2765"
+  },
+  "composeFormatLink": "Tautan",
+  "@composeFormatLink": {
+    "x-scomm-source": "machine",
+    "x-scomm-en-hash": "a6a32dbc5618ea39f6df5b0f9808e3588b19e00d5f6f96c69492e40386e5aeab"
+  },
+  "composeFormatStrikethrough": "Coret",
+  "@composeFormatStrikethrough": {
+    "x-scomm-source": "machine",
+    "x-scomm-en-hash": "9aabbcb2c18def7b323acbf89232f99a3ffbb63f03c9e2716bd629d4135756dd"
+  },
+  "composeFormatUnderline": "Garis bawah",
+  "@composeFormatUnderline": {
+    "x-scomm-source": "machine",
+    "x-scomm-en-hash": "02f843261112c2d831b19d0410d4c154234c4d7124bc3861b6348ffc4b7f770e"
   },
   "@composerTitleFromAccount": {
     "placeholders": {
